@@ -11,8 +11,6 @@ MONTHS = [
 df = pd.read_csv('ratings.csv')
 data = df['Date'].tolist()
 
-norepeat = list(set(data))
-norepeat.sort()
 films = []
 total = 0
 

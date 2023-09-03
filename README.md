@@ -7,3 +7,6 @@
 3. Extraia da pasta o arquivo **_ratings.csv_** e coloque na raiz do projeto
 4. Faça download do **Python** e da biblioteca **Pandas** na sua maquina
 5. Abra o cdm na pasta e execute `python  letterboxd.py`
+
+Você pode tambem testar o codigo no Google Colab:
+https://colab.research.google.com/drive/1tRwQf8fBvt_ucGxI0l3AlbdtO7nb-MUe?usp=sharing
